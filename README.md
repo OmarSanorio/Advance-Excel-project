@@ -1,2 +1,4 @@
 # Advance-Excel-project
-This is an excel project made using pivot tables, IF statement and multiple charts
+Conducted detailed churn analysis to find the reason behind customers leaving the company.
+Used pivot table, If statement and charts to develop retention strategies for each segment, focusing on
+enhancing customer satisfaction and loyalty programs.
